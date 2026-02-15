@@ -1,0 +1,9 @@
+com\clinica\citas\service\CitaService.class
+com\clinica\citas\CitasApplication.class
+com\clinica\citas\client\PacienteClient.class
+com\clinica\citas\entity\Cita.class
+com\clinica\citas\controller\CitaController.class
+com\clinica\citas\event\CitaConfirmadaEvent.class
+com\clinica\citas\client\PacienteClient$PacienteResponse.class
+com\clinica\citas\config\RabbitMQConfig.class
+com\clinica\citas\repository\CitaRepository.class

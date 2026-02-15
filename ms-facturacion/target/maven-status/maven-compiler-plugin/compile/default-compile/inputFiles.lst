@@ -1,0 +1,8 @@
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\consumer\CitaConfirmadaConsumer.java
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\repository\FacturaRepository.java
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\event\CitaConfirmadaEvent.java
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\config\RabbitMQConfig.java
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\entity\Factura.java
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\service\FacturacionService.java
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\controller\FacturaController.java
+C:\Users\Albert\Desktop\tareajavat2\ms-facturacion\src\main\java\com\clinica\facturacion\FacturacionApplication.java

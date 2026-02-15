@@ -1,0 +1,8 @@
+com\clinica\facturacion\config\RabbitMQConfig.class
+com\clinica\facturacion\entity\Factura.class
+com\clinica\facturacion\repository\FacturaRepository.class
+com\clinica\facturacion\service\FacturacionService.class
+com\clinica\facturacion\controller\FacturaController.class
+com\clinica\facturacion\event\CitaConfirmadaEvent.class
+com\clinica\facturacion\consumer\CitaConfirmadaConsumer.class
+com\clinica\facturacion\FacturacionApplication.class

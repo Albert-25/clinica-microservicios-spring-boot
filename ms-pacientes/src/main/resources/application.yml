@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: ms-pacientes
+  datasource:
+    url: jdbc:postgresql://localhost:5432/pacientesdb
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password: postgres
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: false
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+server:
+  port: 0

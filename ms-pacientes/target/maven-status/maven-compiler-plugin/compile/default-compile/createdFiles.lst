@@ -1,0 +1,5 @@
+com\clinica\pacientes\entity\Paciente.class
+com\clinica\pacientes\PacientesApplication.class
+com\clinica\pacientes\service\PacienteService.class
+com\clinica\pacientes\repository\PacienteRepository.class
+com\clinica\pacientes\controller\PacienteController.class
